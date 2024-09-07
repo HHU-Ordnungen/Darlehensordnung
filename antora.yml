@@ -1,0 +1,5 @@
+name: darlehensordnung
+title: Darlehensordnung
+version: 0
+nav:
+- modules/nav.adoc
